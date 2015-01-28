@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<topic id="1f07f1ee-23f1-4552-8521-9b2b62f7f6f9" revisionNumber="1">
+	<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<introduction>
+			<para>
+        Galactic offers a constellation of .NET libraries that solve many of today's common programming challenges.
+        For additional information about the API visit the 
+        <externalLink>
+          <linkText>Galactic API site on GitHub</linkText>
+          <linkAlternateText>Galactic API site on GitHub</linkAlternateText>
+          <linkUri>http://galacticapi.github.io</linkUri>
+      </externalLink>
+      .
+      </para>
+		</introduction>
+	</developerConceptualDocument>
+</topic>

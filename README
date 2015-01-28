@@ -1,0 +1,11 @@
+This is a Sandcastle Help File Builder (https://github.com/EWSoftware/SHFB) project for the Galactic API. It uses the SharedLibraries and Galactic API project as documentation sources.
+
+This repository should generally be placed at the same level in the directory structure as the Galactic and SharedLibraries project.
+
+For example:
+
+If you place the Galactic and SharedLibraries project in:
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Galactic
+C:\Users\Username\Documents\Visual Studio 2013\Projects\SharedLibraries
+
+then this project should be placed in: C:\Users\Username\Documents\Visual Studio 2013\Projects\GalacticDocumentation
