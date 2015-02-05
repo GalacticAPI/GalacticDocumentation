@@ -5,14 +5,4 @@
       <HelpKeyword index="K" term="Galactic API" />
     </HelpKeywords>
   </Topic>
-  <Topic id="b24be317-9616-44df-b3de-ff12bdd4d0f9" visible="True" isExpanded="true" title="Version History">
-    <HelpKeywords>
-      <HelpKeyword index="K" term="version, history" />
-    </HelpKeywords>
-    <Topic id="53f3b2a2-589f-4baf-b44c-614ffd0a526d" visible="True" title="Version 1.0.0.0">
-      <HelpKeywords>
-        <HelpKeyword index="K" term="version, 1.0.0.0" />
-      </HelpKeywords>
-    </Topic>
-  </Topic>
 </Topics>
