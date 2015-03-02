@@ -28,23 +28,23 @@
       <Argument Key="defaultLanguage" Value="cs" />
     </TransformComponentArguments>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.ActiveDirectory.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Calendar.iCalendar.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Calendar.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Configuration.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Cryptography.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.EventLog.Sql.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.EventLog.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.FileSystem.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.LDAP.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.NoSql.Couchbase.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.NoSql.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.PowerShell.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.SharePoint.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Sql.MSSql.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Sql.Oracle.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Sql.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Documentation\Galactic\Galactic.Web.Security.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.ActiveDirectory.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Calendar.iCalendar.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Calendar.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Configuration.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Cryptography.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.EventLog.Sql.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.EventLog.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.FileSystem.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.LDAP.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.NoSql.Couchbase.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.NoSql.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.PowerShell.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.SharePoint.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Sql.MSSql.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Sql.Oracle.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Sql.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml" />
       <DocumentationSource sourceFile="..\..\Galactic\Galactic.sln" />
     </DocumentationSources>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
