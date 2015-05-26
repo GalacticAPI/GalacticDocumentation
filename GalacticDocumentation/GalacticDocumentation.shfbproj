@@ -44,9 +44,10 @@
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Sql.MSSql.xml" />
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Sql.Oracle.xml" />
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Sql.xml" />
-      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.xml" />
       <DocumentationSource sourceFile="..\..\Galactic\Galactic.sln" />
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.ActiveDirectory.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.SimpleMapping.xml" />
     </DocumentationSources>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>Website</HelpFileFormat>
