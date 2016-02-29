@@ -48,6 +48,7 @@
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.NoSql.MongoDB.xml" />
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.ActiveDirectory.xml" />
       <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.SimpleMapping.xml" />
+      <DocumentationSource sourceFile="..\..\SharedLibraries\Release\Galactic\Galactic.Web.Security.SimpleActiveDirectory.xml" />
     </DocumentationSources>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>Website</HelpFileFormat>
@@ -66,11 +67,12 @@
     <Preliminary>False</Preliminary>
     <NamingMethod>Guid</NamingMethod>
     <HelpTitle>Galactic API</HelpTitle>
-    <CopyrightText>&amp;#169%3b 2015 Galactic API Team</CopyrightText>
+    <CopyrightText>&amp;#169%3b 2016 Galactic API Team</CopyrightText>
     <ContentPlacement>AboveNamespaces</ContentPlacement>
     <HeaderText>
     </HeaderText>
     <FooterText>&amp;lt%3ba href=&amp;quot%3bhttp://galacticapi.github.io&amp;quot%3b&amp;gt%3bGalactic API on GitHub&amp;lt%3b/a&amp;gt%3b&amp;lt%3bbr/&amp;gt%3b&amp;lt%3bbr/&amp;gt%3b</FooterText>
+    <HelpFileVersion>1.0.0.0</HelpFileVersion>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
